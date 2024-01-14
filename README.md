@@ -1,2 +1,2 @@
 # LeetCode
-questões resolvidas do LeetCode
+questões resolvidas do LeetCod:)
